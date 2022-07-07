@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1A99637828774006008E5499 /* CircleGroupView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A99637728774006008E5499 /* CircleGroupView.swift */; };
+		1A99637A287740CE008E5499 /* CircleGroupView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A996379287740CE008E5499 /* CircleGroupView.swift */; };
 		1AC1BC6E287363BF001EA90F /* ResartApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AC1BC6D287363BF001EA90F /* ResartApp.swift */; };
 		1AC1BC70287363BF001EA90F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AC1BC6F287363BF001EA90F /* ContentView.swift */; };
 		1AC1BC72287363C4001EA90F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1AC1BC71287363C4001EA90F /* Assets.xcassets */; };
@@ -38,6 +40,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1A99637728774006008E5499 /* CircleGroupView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleGroupView.swift; sourceTree = "<group>"; };
+		1A996379287740CE008E5499 /* CircleGroupView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CircleGroupView.swift; sourceTree = "<group>"; };
 		1AC1BC6A287363BF001EA90F /* Resart.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Resart.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1AC1BC6D287363BF001EA90F /* ResartApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResartApp.swift; sourceTree = "<group>"; };
 		1AC1BC6F287363BF001EA90F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -162,6 +166,8 @@
 		1AC1BC9E28736841001EA90F /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				1A996379287740CE008E5499 /* CircleGroupView.swift */,
+				1A99637728774006008E5499 /* CircleGroupView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -309,6 +315,8 @@
 				1AC1BCA4287369CA001EA90F /* HomeView.swift in Sources */,
 				1AC1BC70287363BF001EA90F /* ContentView.swift in Sources */,
 				1AC1BC6E287363BF001EA90F /* ResartApp.swift in Sources */,
+				1A99637A287740CE008E5499 /* CircleGroupView.swift in Sources */,
+				1A99637828774006008E5499 /* CircleGroupView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
