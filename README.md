@@ -1,4 +1,4 @@
-# Ecoleta
+# ResartApp
 
 Simple Onboarding Study, with Swift:
 <p>.Animations</p>
